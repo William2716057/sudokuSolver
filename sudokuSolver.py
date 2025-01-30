@@ -1,3 +1,7 @@
+#change to user input
+
+#change to image input
+
 square = [
     [0, 8, 4, 0, 0, 2, 0, 3, 0],
     [2, 0, 7, 8, 3, 1, 0, 0, 9],
